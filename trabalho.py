@@ -21,7 +21,7 @@ print=(f"A some é: {num1+num2}  A subtração é: {num1 - num2} O dobro é: {nu
 preço=5
 quantidade=3
 total= preço * quantidade
-print=(f"O valor total da compra R$: {total:.2f} ")
+print=(f"O valor total da compra R$: {total} ")
 
 #6.
 idade= int(input("Qual sua idade atual"))
